@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  direction: column;
+  flex-direction: column;
+  height: 100%;
+}
+
+.last-item {
+  margin-top: auto !important;
+  justify-self: flex-end !important;
+}
